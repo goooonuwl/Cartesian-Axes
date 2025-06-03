@@ -3,6 +3,7 @@
 
 🚀 **Cartesian-Axes Web App** is an interactive web tool designed to visualize and interact with **Cartesian coordinate systems** dynamically. It allows users to **plot points, draw lines, visualize equations**, and explore the fundamentals of **2D space mathematics**. 🧮  
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Cartesian-Axes/)
 ---
 
 ## 🏆 Features  
